@@ -12,4 +12,4 @@
 
 7. 출처: https://www.youtube.com/watch?v=e56H5n1SvEs&list=PL-eeIUD86IjSyxTbGT7wY3Hie_HA5bKvg&index=1
 
-8. 주소:
+8. 주소: https://hyundai-sangho.github.io/TypingLandingPage/
