@@ -2,7 +2,7 @@
 
 2. 타이핑 효과 랜딩 페이지 만들기
 
-3. Front: Html, css, js
+3. Front: html, css, js
 
 4. Back: 사용 안 함
 
